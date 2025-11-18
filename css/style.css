@@ -241,7 +241,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: rgb(245, 99, 75);
+  color: hsl(283, 40%, 51%);
 }
 
 .text-black {
@@ -376,7 +376,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/bg-7.jpg") no-repeat 0% 30%;
+  background: url("../images/bg/bg-8.jpg") no-repeat 0% 30%;
   background-size: cover;
   padding: 180px 0px;
 }
