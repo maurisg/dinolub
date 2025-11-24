@@ -410,7 +410,7 @@ ul.dropdown-menu li {
 }
 
 .bg-3 {
-  background: url("../images/bg/bg-cta.jpg") no-repeat;
+  background: url("../images/bg/car_parked.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -570,7 +570,7 @@ ul.dropdown-menu li {
 }
 
 .cta {
-  background: url("../images/bg/slide2.jpg") fixed 50% 50% no-repeat;
+  background: url("../images/bg/car_parked.jpg") fixed 50% 50% no-repeat;
   background-size: cover;
 }
 
